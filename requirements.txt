@@ -22,6 +22,7 @@ matplotlib==3.9.2
 matplotlib-inline==0.1.7
 nbformat==5.10.4
 nest-asyncio==1.6.0
+networkx==3.4.2
 nltk==3.9.1
 numpy==2.1.2
 packaging==24.1
@@ -53,3 +54,4 @@ tqdm==4.66.5
 traitlets==5.14.3
 tzdata==2024.2
 wcwidth==0.2.13
+wordcloud==1.9.4
